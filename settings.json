@@ -1,0 +1,17 @@
+{
+    "output_directory": "",
+    "enable_logging": true,
+    "log_level": "INFO",
+    "temp_directory": "",
+    "delete_temp_files": true,
+    "max_threads": 2,
+    "theme": "light",
+    "ffmpeg": {
+        "codec": "libx264",
+        "pixel_format": "yuv420p",
+        "threads": 0,
+        "tune": "film",
+        "audio_codec": "aac",
+        "audio_bitrate": "128k"
+    }
+} 

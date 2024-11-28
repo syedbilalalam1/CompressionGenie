@@ -1,0 +1,3 @@
+PyQt5>=5.15.9
+PyInstaller>=5.8.0
+python-ffmpeg>=2.0.0 
